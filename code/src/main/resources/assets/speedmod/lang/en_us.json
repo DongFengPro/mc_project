@@ -1,0 +1,21 @@
+{
+  "item.speedmod.wood_craft_recipes": "Wood Craft Recipes",
+  "item.speedmod.stone_craft_recipes": "Stone Craft Recipes",
+  "item.speedmod.iron_craft_recipes": "Iron Craft Recipes",
+  "item.speedmod.gold_craft_recipes": "Gold Craft Recipes",
+  "item.speedmod.copper_craft_recipes": "Copper Craft Recipes",
+  "item.speedmod.diamond_craft_recipes": "Diamond Craft Recipes",
+  "item.speedmod.netherite_craft_recipes": "Netherite Ingot Recipes",
+
+
+  "block.speedmod.wooden_cat_box": "Wooden Cat Box",
+  "block.speedmod.stone_cat_box": "Stone Cat Box",
+  "block.speedmod.iron_cat_box": "Iron Cat Box",
+  "block.speedmod.golden_cat_box": "Golden Cat Box",
+  "block.speedmod.copper_cat_box": "Copper Cat Box",
+  "block.speedmod.diamond_cat_box": "Diamond Cat Box",
+  "block.speedmod.netherite_cat_box": "Netherite Cat Box",
+  "block.speedmod.custom_furnace": "Furnace",
+
+  "creativetab.speed_tab": "Double Speed World"
+}
